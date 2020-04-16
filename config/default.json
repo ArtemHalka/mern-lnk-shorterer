@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://artem:147896325@cluster0-zdubb.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "art halka mern",
+  "baseUrl": "http://localhost:5000"
+}
